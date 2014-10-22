@@ -1,0 +1,13 @@
+{
+  "name": "harprocess",
+  "version": "0.0.0",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "private": "true",
+  "dependencies": {
+    "coffee-script": "^1.8.0",
+    "lodash": "^2.4.1",
+    "moment": "^2.8.3"
+  }
+}
